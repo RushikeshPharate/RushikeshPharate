@@ -1,7 +1,7 @@
 
 ![Header banner](https://github.com/RushikeshPharate/RushikeshPharate/blob/master/media/header.png)
 
-<div align="center" markdown="1">
+<div markdown="1">
     <h2>Hi 👋, I'm Rushikesh Pharate</h2>
 </div>
 
@@ -10,17 +10,29 @@ A results-oriented Software Engineer <img src="https://media.giphy.com/media/WUl
 - Proficient in a range of programming languages, including C#, Java, Python, JavaScript, and C++. Experienced in RESTful API development, CI/CD workflows, and infrastructure deployment using Terraform. 
 - Adept at collaborating with cross-functional teams to deliver innovative solutions.
 
+<div>
+    <p>💡 Always open to collaborating on projects and innovative ideas. </p>
+</div>
 
+<div>
+    <p> 📄 Have a look at my <a href=""> Resume </a> </p>
+</div>
 
+<div>
+    <p> 💬 Ask me about whats new in the tech industry. </p>
+</div>
 
-:airplane: Outside of the tech world, I love travelling and meeting new people. Hiking :mount_fuji: is my thing. Checkout my [instagram](https://www.instagram.com/travelkar_rushi/)
-
-<div align="center" markdown="1">
-    <h2>Connect with me !! 🤝 </h2>
+<div>
+    <p> ✈️ Outside of the tech world, I love travelling and meeting new people. Hiking :mount_fuji: is my thing. Checkout my <a href="https://www.instagram.com/travelkar_rushi/">instagram </a> </p>
 </div>
 
 
-<div id="badges" align="center">
+<div markdown="1">
+    <h2>Connect with me !! 🤝 </h2>
+</div>
+
+ 
+<div id="badges" >
   <a href="https://www.linkedin.com/in/rushikeshpharate/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -35,7 +47,7 @@ A results-oriented Software Engineer <img src="https://media.giphy.com/media/WUl
   </a>
 </div>
 
-<div align="center">
+<div >
   <img src="https://komarev.com/ghpvc/?username=RushikeshPharate&style=flat-square&color=blue" alt=""/>
 </div>
 
