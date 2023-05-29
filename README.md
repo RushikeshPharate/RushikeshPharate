@@ -1,16 +1,22 @@
-<!-- ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div> -->
-
-![Header banner]()
-
-
-
+![Header banner](https://github.com/RushikeshPharate/RushikeshPharate/blob/master/media/header.png)
 
 <div align="center" markdown="1">
-    <h3>Connect with me !! 🤝 </h3>
+    <h2>Hi 👋, I'm Rushikesh Pharate</h2>
+</div>
+
+A results-oriented Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a strong background in full-stack web development and expertise in cloud-native technologies. 
+- Skilled in designing and implementing scalable systems, optimizing performance, and automating processes to drive efficiency. 
+- Proficient in a range of programming languages, including C#, Java, Python, JavaScript, and C++. Experienced in RESTful API development, CI/CD workflows, and infrastructure deployment using Terraform. 
+- Adept at collaborating with cross-functional teams to deliver innovative solutions.
+
+
+
+
+:airplane: Outside of the tech world, I love travelling and meeting new people. Hiking :mount_fuji: is my thing. Checkout my [instagram](https://www.instagram.com/travelkar_rushi/)
+
+<div align="center" markdown="1">
+    <h2>Connect with me !! 🤝 </h2>
 </div>
 
 
