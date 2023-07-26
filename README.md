@@ -15,11 +15,11 @@ A results-oriented Software Engineer <img src="https://media.giphy.com/media/WUl
 </div>
 
 <div>
-    <p> 📄 Have a look at my <a href="https://drive.google.com/file/d/1pkmIIzo_3Whu7XLlGUF8vgIp5vk61oTY/view?usp=sharing"> Resume </a> </p>
+    <p> 📄 Have a look at my <a href="https://drive.google.com/file/d/1oN2zlBGmngjuZp63_vsuXuYfjRu1m5_h/view?usp=sharing"> resume </a> </p>
 </div>
 
 <div>
-    <p> 💬 Ask me about whats new in the tech industry. </p>
+    <p> 💬 Ask me about what's new in the tech industry. </p>
     </div >
 <div>
     <p> ✈️ Outside of the tech world, I love travelling and meeting new people. Hiking :mount_fuji: is my thing. Checkout my <a href="https://www.instagram.com/travelkar_rushi/">instagram </a> </p>
