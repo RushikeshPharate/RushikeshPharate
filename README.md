@@ -38,7 +38,7 @@ A results-oriented Software Engineer <img src="https://media.giphy.com/media/WUl
   <a href="mailto:rushikeshpharate7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/rushikeshpharate">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
   </a>
   <a href="https://www.instagram.com/travelkar_rushi/">
