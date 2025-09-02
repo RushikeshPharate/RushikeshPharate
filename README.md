@@ -15,7 +15,7 @@ A results-oriented Software Engineer <img src="https://media.giphy.com/media/WUl
 </div>
 
 <div>
-    <p> 📄 Have a look at my <a href="https://drive.google.com/file/d/1oN2zlBGmngjuZp63_vsuXuYfjRu1m5_h/view?usp=sharing"> resume </a> </p>
+    <p> 📄 Have a look at my <a href="https://drive.google.com/"> resume </a> </p>
 </div>
 
 <div>
